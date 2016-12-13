@@ -7,5 +7,5 @@ Source Code dari buku Mudah Belajar Python Untuk Aplikasi dekstop dan Web by Bud
 3. Beberapa kode ndak sama persis dengan di buku, karna saya nyoba sendiri biar puwinter xD
 
 ---
-#### mantap gan!
+#### Mantap gan! :smiling_imp:
 
