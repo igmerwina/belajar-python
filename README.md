@@ -1,5 +1,5 @@
 # Belajar Python
-Source Code dari buku Mudah Belajar Python Untuk Aplikasi dekstop dan [Web by Budi Raharjo](https://rahard.wordpress.com/)
+Source Code dari buku Mudah Belajar Python Untuk Aplikasi dekstop dan Web by [Budi Raharjo](https://rahard.wordpress.com/)
 
 ### Petunjuk:
 1. Ndak semua kode atau contoh di bukunya saya tulis
